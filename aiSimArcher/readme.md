@@ -1,3 +1,5 @@
+![alt text](./screenshot.png)
+
 # aiSim Archer: a cutting-edge 3D vehicle model for simulation excellence
 
 Meet aiSimArcher, our latest creation that embodies aiMotive's understanding of the new OpenMATERIAL standard (ASAM OpenMATERIAL 3D :: OpenMATERIAL® 3D). This versatile, fictitious vehicle is designed to combine modern car aesthetics with real-time rendering optimization, making it the perfect example for standard-driven 3D simulation.
